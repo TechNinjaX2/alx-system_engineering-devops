@@ -1,2 +1,1 @@
-#!/bin/bash
-where am i
+This is for the system devops
