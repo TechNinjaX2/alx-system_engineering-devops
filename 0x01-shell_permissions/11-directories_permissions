@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -i chmod +x
+chmod d 755
