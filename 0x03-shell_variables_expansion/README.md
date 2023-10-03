@@ -1,1 +1,1 @@
-This is for variable expansions.
+This is for variable expansions
